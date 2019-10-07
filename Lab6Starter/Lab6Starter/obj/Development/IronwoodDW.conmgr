@@ -5,6 +5,10 @@
   DTS:CreationName="OLEDB">
   <DTS:ObjectData>
     <DTS:ConnectionManager
-      DTS:ConnectionString="Data Source=.\CPA_DEV;Initial Catalog=mbaddeley_IronwoodDW;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Lab6Starter-{006817BF-BE1A-43AA-9CE0-DFB46B0F027E}.\CPA_DEV.mbaddeley_IronwoodDW;" />
+      DTS:ConnectionString="Data Source=192.168.40.206;User ID=svanderest1;Initial Catalog=svanderest1_IronwoodDW;Provider=MSOLEDBSQL.1;Auto Translate=False;Application Name=SSIS-Lab6Starter-{006817BF-BE1A-43AA-9CE0-DFB46B0F027E}.\CPA_DEV.mbaddeley_IronwoodDW;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJeZmqoiYYUCspamNbuj3HQAAAAACAAAAAAADZgAAwAAAABAAAAA2ybbx4e1KpPijtCFkuOtTAAAAAASAAACgAAAAEAAAAEYrG2AGupIZL1tTO0rED7Z4AAAAaSnUytBWP/g9AbNZXElJPeTNhRi2gn49+j3aFF5Ba8djOg4RosN0F74LZsNwSi3UfaKZo6f2zb/8HQ7rYqVQQh7i9m9H2ES4R2gtOTLeBa6oE4eBCP0CNJGRFRJJk+1bPN1jRhKFkinPOIsQnDtGk+2hzRxu9uELFAAAAB3ILcYpvnLT9KXrHuOT8ywT+YIb</DTS:Password>
+    </DTS:ConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>

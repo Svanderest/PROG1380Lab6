@@ -2,18 +2,23 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Lab6Starter</Name>
-    <LastWriteTime>2019-10-06T15:03:22.6152521Z</LastWriteTime>
+    <LastWriteTime>2019-10-07T16:34:16.6960191Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Test-Package-DateKey.dtsx</Name>
-      <LastWriteTime>2019-10-06T15:03:22.5962756Z</LastWriteTime>
+      <LastWriteTime>2019-10-07T16:34:16.6070343Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Test-Package-Convert-Grades.dtsx</Name>
-      <LastWriteTime>2019-10-06T15:03:22.538252Z</LastWriteTime>
+      <LastWriteTime>2019-10-07T16:34:16.6720057Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Integration-Transform-Load-EnrollmentOutcomes.dtsx</Name>
+      <LastWriteTime>2019-10-07T16:34:16.5310042Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
